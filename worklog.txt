@@ -1,0 +1,12 @@
+Going to start over once again. 
+
+React code --> Client --> Frontend --> npm start --> runs on port 3000
+Express code --> Server --> Backend --> npm run dev -->runs on port 5000
+
+Following the first YouTube video to set up the client and server. 
+
+Got styles.css imported correctly as well as the header and footer.
+
+--Trying to now render the blog site. 
+
+--Working on the database portion. And still need to edit/setup blog home and create
