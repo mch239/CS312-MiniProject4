@@ -6,12 +6,12 @@ function Home() {
   const navigate = useNavigate();
 
   function registerClick() {
-    navigate("/Register")
+    navigate("/register")
   console.log("clicked")
 };
 
   function loginClick() {
-    navigate("/Login")
+    navigate("/login")
     console.log("clicked")
   };
 

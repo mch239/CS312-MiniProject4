@@ -11,7 +11,7 @@ function Header() {
                 <nav className="navigation">
                     <ul className="nav">
                         <li><a href="/">Home</a></li>
-                        <li><a href="/blogs">View Blogs</a></li>
+                        <li><a href="/create">View Blogs</a></li>
                     </ul>
                 </nav>
             </div>

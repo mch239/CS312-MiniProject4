@@ -15,7 +15,7 @@ function Login() {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await axios.post('/home', credentials);
+            const response = await axios.post('/api/login', credentials);
             console.log("Logged In:", response.data);
         } catch (error) {
             console.error("Login Error:", error);
