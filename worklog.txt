@@ -10,3 +10,6 @@ Got styles.css imported correctly as well as the header and footer.
 --Trying to now render the blog site. 
 
 --Working on the database portion. And still need to edit/setup blog home and create
+--Gave up on connecting the database. Work on getting edit page set up and figure out 
+how to get each blog entry into a <card> component. like the beyonce and chuck norris 
+example. 
